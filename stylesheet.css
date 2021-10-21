@@ -2,7 +2,9 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background: hsl(116, 95%, 22%);
+    background-image: url("images\table.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
