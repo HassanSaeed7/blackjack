@@ -10,8 +10,8 @@ body {
 }
 h1 {
     color: gold;
-    font-size: 4em;
-    padding-bottom: 5%;
+    font-size: 5rem;
+    padding-bottom: 1%;
 }
 #message-el {
     font-size: 2em;
