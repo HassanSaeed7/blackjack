@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-image: url("images\table.jpg");
+    background: url("table.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -19,6 +19,7 @@ h1 {
 #play-btn,
 #card-btn {
     padding: 1% 2%;
+    margin: 1%;
     background-color: gold;
     font-size: 1.5em;
     border: none;
